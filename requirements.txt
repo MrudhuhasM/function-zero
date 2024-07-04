@@ -1,5 +1,8 @@
     pylint
     pytest
     black
-    wikipedia
-    click
+    wikipedia==1.4.0
+    click==8.1.7
+    fastapi==0.111.0
+    uvicorn==0.30.1
+    pydantic==2.8.1
